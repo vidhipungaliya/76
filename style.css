@@ -1,0 +1,16 @@
+body {
+    background-size: cover;
+    
+}
+
+canvas {
+    background-color: black;
+    border: inset 5px;
+    box-shadow: gray;
+    border-color: brown;
+    margin-top: 20px;
+}
+.note{
+    font-weight: bolder;
+    
+}
